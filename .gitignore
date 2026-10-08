@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+**/models/
+**/indobert-clickid-results/
+**/indobert_clickid_model/
+*.joblib
+*.safetensors
