@@ -1,0 +1,4 @@
+query_id,query,expected_label,predicted_label,predicted_label_classifier,top_1_case_id,top_1_similarity,correct,precision_macro,recall_macro,f1_macro
+q1,terdakwa menyebarkan konten penghinaan melalui media sosial,pidana penjara,pidana penjara,pidana penjara,case_014,0.040302,1.0,,,
+q2,terdakwa menyebarkan informasi elektronik yang mencemarkan nama baik korban,pidana penjara,pidana penjara,pidana penjara,case_005,0.047623,1.0,,,
+SUMMARY,,,,,,,1.0,1.0,1.0,1.0

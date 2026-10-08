@@ -1,0 +1,4 @@
+query_id,query,ground_truth_case_id,top_1_case_id,top_k_case_ids,hit_at_k,top_1_correct,precision_at_k,recall_at_k,f1_at_k
+q1,terdakwa menyebarkan konten penghinaan melalui media sosial,case_001,case_014,"case_014,case_003,case_004,case_022,case_029",0.0,0.0,0.0,0.0,0.0
+q2,terdakwa menyebarkan informasi elektronik yang mencemarkan nama baik korban,case_002,case_005,"case_005,case_017,case_013,case_022,case_018",0.0,0.0,0.0,0.0,0.0
+SUMMARY,,,,,0.0,0.0,0.0,0.0,0.0

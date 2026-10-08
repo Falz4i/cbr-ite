@@ -1,0 +1,14 @@
+[
+  {
+    "query_id": "q1",
+    "query": "terdakwa menyebarkan konten penghinaan melalui media sosial",
+    "ground_truth_case_id": "case_001",
+    "expected_label": "pidana penjara"
+  },
+  {
+    "query_id": "q2",
+    "query": "terdakwa menyebarkan informasi elektronik yang mencemarkan nama baik korban",
+    "ground_truth_case_id": "case_002",
+    "expected_label": "pidana penjara"
+  }
+]
